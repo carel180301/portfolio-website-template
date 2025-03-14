@@ -1,10 +1,14 @@
 # portfolio-website-template
 
-## GET STARTED:
+## GET STARTED
 
-**1.** Add images to the images folder <br>
-![website template tutorial (1)](https://github.com/user-attachments/assets/863833b2-c1d8-4238-9186-0f1fcc058790) <br>
+### This is the step-by-step tutorial of how to use this template:
 
+**1.** Add image(s) to the images folder <br>
+![website template tutorial (1)](https://github.com/user-attachments/assets/57638ce0-63ea-492f-9bdc-fadb317c2b7a)<br>
+**2.** Edit the HTML <br>
+**3.** Edit the CSS <br>
+**4.** Edit the Javascript <br>
 <hr>
 
 
