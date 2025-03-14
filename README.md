@@ -122,4 +122,4 @@ or
 @media (min-width: 150px) and (max-width: 426px){
 }
 ```
-if you want to add min-width and max-width <br> 
+if you want to add min-width and max-width <br><hr> 
