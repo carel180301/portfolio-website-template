@@ -185,4 +185,4 @@ if you want to add more icons for your contact, you can go to https://icons.getb
 ```html
 <i class="bi bi-facebook"></i>
 ```
-
+if you want to add more complicated css style, you can go to https://www.w3schools.com/css/ to learn more about css
