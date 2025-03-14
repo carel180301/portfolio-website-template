@@ -58,7 +58,7 @@ add your occupation <br>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt nobis animi vero qui officia reprehenderit tenetur obcaecati optio tempore quae culpa nesciunt minima ducimus, sequi aliquid in ab voluptate sapiente!
           </p><br> <!--add the description-->
 ```
-change the "lorem ipsum..." to be description about yourself <br>
+change the "lorem ipsum..." to be the description about yourself <br>
 
 ```html
  <a class="navbar-brand d-flex align-items-center" href="#">
