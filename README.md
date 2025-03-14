@@ -97,7 +97,16 @@ add your project image inside src="images/[image file]" and change the 'lorem ip
 ```html
 <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
 ```
-change the # to be an url to your project <br><hr>
+change the # to be an url to your project <br>
+
+```html
+  <i class="bi bi-linkedin" style="cursor: pointer;" onclick="goToLinkedin()"></i>
+  <i class="bi bi-instagram" style="cursor: pointer;" onclick="goToInstagram()"></i>
+  <i class="bi bi-whatsapp" style="cursor: pointer;" onclick="goToWhatsapp()"></i>
+  <i class="bi bi-envelope-at-fill" style="cursor: pointer;" onclick="goToEmail()"></i>
+```
+if you want to add more social media accounts to your contact, just go to https://icons.getbootstrap.com/ and then copy the html icon tag like above
+<hr>
 
 ## CSS 
 ```css
