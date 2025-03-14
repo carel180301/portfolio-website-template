@@ -74,3 +74,42 @@ add your project image inside src="images/[image file]" and change the 'lorem ip
 change the # to be an url to your project <br><hr>
 
 ## CSS 
+```css
+.bi{ /*if you want to style the icons*/
+    font-size: 2rem;
+    color: white;
+    margin: 0.5%;
+}
+```
+if you want style the account icons, you can style it here <br>
+
+```css
+.bi:hover{ /*if you want to style the icons if being hovered*/
+    color: #0d6efd;
+}
+```
+and also you can style the account icons when the icons being hovered <br>
+
+```css
+.responsive-img { /*if you want to style the image on hero section*/
+    width: 50%;
+}
+```
+if you want to style the logo image on hero section, you can style it here <br>
+
+```css
+.logo-img { /*if you want to style the logo*/
+    max-height: 50px;
+    width: auto;
+}
+```
+if you want to style the logo image inside the navbar (navigation bar), you can style it here <br>
+
+```css
+@media (max-width: 426px) { /*add more media queries (only if you want)*/
+    .responsive-img {
+        width: 75%;
+    }
+}
+```
+if you want to apply different styles based on the device's screen size, resolution, or other properties, you can use media query by using @media. for example =  @media (max-width: 426px) {} or @media (max-width: 150px) and (max-width: 426px){} if you want to add min-width and max-width <br> 
