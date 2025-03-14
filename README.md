@@ -4,11 +4,20 @@
 
 ### This is the step-by-step tutorial of how to use this template:
 
-**1.** Add image(s) to the images folder <br>
+**1.** Right click on the folder <br>
+![website template tutorial (3)](https://github.com/user-attachments/assets/5b5c9ce9-e56d-475d-973e-6393c894996e)<br>
+
+**2.** click 'extract to...' <br>
+![website template tutorial (4)](https://github.com/user-attachments/assets/07209c3f-d753-493f-b998-644ff0219527)<br>
+
+**3.** Add image(s) to the images folder <br>
 ![website template tutorial (1)](https://github.com/user-attachments/assets/57638ce0-63ea-492f-9bdc-fadb317c2b7a)<br>
-**2.** Edit the HTML <br>
-**3.** Edit the CSS <br>
-**4.** Edit the Javascript <br>
+
+**4.** Edit the HTML <br>
+
+**5.** Edit the CSS <br>
+
+**6.** Edit the Javascript <br>
 <hr>
 
 ## HTML 
