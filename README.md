@@ -52,4 +52,4 @@ change the '1.project 1' to your project name. <br>
 <div style="display: none;">
           <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add image -->
 ```
-add your logo image inside src="images/[image file]"
+add your project image inside src="images/[image file]"
