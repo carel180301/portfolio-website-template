@@ -58,4 +58,9 @@ change the '1.project 1' to your project name. <br>
             Excepturi nesciunt, sunt possimus vero nihil, pariatur, eos architecto iste sequi eum assumenda error doloribus nulla facilis tempora quam.
           </p><!-- add desription -->
 ```
-add your project image inside src="images/[image file]" and change the 'lorem ipsum..' to be your project description
+add your project image inside src="images/[image file]" and change the 'lorem ipsum..' to be your project description <br>
+
+```html
+<a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
+```
+change the # to be an url to your project
