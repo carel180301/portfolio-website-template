@@ -39,4 +39,11 @@ add your logo inside the src="images/[image file]" <br>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima soluta reiciendis voluptatem quasi voluptatum odio. Alias, consequatur amet maiores commodi tempore soluta earum, adipisci quia sunt voluptatibus laborum dolor ut?</p>
         <a href="#" target="_blank" download><button class="btn btn-success w-50">My CV</button></a> <!-- add your cv file -->
 ```
-change the 'lorem ipsum' to be description about yourself, and change the # to be your cv file 
+change the 'lorem ipsum' to be description about yourself, and change the # to be your cv file <br>
+
+```html
+<h3 onclick="showProjectDetail(this)" class="text-center mb-4" style="color: #0000EE; text-decoration: underline; cursor: pointer; text-decoration-color: #0000EE;">
+            1. Project 1
+        </h3> <!-- add project name -->
+```
+change the '1.project 1' to your project name. 
