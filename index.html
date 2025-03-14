@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carel Ceri | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+  <div class="px-5 py-5 text-center bg-dark min-vh-100 d-flex flex-column justify-content-center" 
+    style="background-image: url('images/'); background-size: cover; background-position: center; background-repeat: no-repeat;"> 
+    <!--add background image (only if you want)-->
+ 
+    <img class="d-block mx-auto mb-4 responsive-img" src="images/dummy image.jpg" alt="logo" style="max-height: 300px;">
+    <h1 class="display-5 fw-bold text-body-emphasis text-white" style="color: white !important;">- [Occupation] -</h1><br> <!--add your occupation-->
+  
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8 col-sm-10">
+          <p class="lead mb-4 text-white" style="text-align: justify; text-justify: inter-word;">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt nobis animi vero qui officia reprehenderit tenetur obcaecati optio tempore quae culpa nesciunt minima ducimus, sequi aliquid in ab voluptate sapiente!
+          </p><br> <!--add the description-->
+
+          <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4 text-white" onclick="goToAboutMe()">About Me</button>
+            <button type="button" class="btn btn-primary btn-lg px-4 gap-3" onclick=" goToProjects()">See My Works</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <nav class="navbar sticky-top bg-body-tertiary navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+      <a class="navbar-brand d-flex align-items-center" href="#">
+        <img src="images/dummy image.jpg" alt="Logo" class="logo-img">
+      </a> <!--add logo image-->
+  
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3 text-center">
+            <li class="nav-item">
+              <a class="nav-link" href="#section_aboutMe" style="font-size: 1.5rem;">About Me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#section_projects" style="font-size: 1.5rem;">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#section_contact" style="font-size: 1.5rem;">Contact</a>
+            </li>
+          </ul>
+        </div>
+    </div>
+  </nav>
+  
+  <section class="container my-5" id="section_aboutMe">
+    <div class="row justify-content-center">
+      <div class="col-10 col-sm-8 col-md-6 text-center">
+        <h1>About Me</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus necessitatibus incidunt ad commodi velit assumenda totam dolorem quae omnis eaque! Harum, rem perspiciatis cupiditate quasi eveniet repudiandae esse maxime sequi!</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima soluta reiciendis voluptatem quasi voluptatum odio. Alias, consequatur amet maiores commodi tempore soluta earum, adipisci quia sunt voluptatibus laborum dolor ut?</p>
+        <a href="CV Carel .pdf" target="_blank" download><button class="btn btn-success w-50">My CV</button></a> <!-- add your cv file -->
+      </div>
+    </div>
+  </section><hr>
+
+  <section class="container my-5" id="section_projects">
+    <div class="row justify-content-center">
+      <div class="col-10 col-sm-8 col-md-6 text-center">
+        <h1>Projects</h1><br>
+
+        <h3 onclick="showProjectDetail(this)" class="text-center mb-4" style="color: #0000EE; text-decoration: underline; cursor: pointer; text-decoration-color: #0000EE;">
+            1. Project 1
+        </h3> <!-- add project name -->
+        
+        <div style="display: none;">
+          <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add image -->
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus minima quis distinctio odit praesentium tempora eum consequuntur 
+            veritatis odio illum quia, laboriosam, est aliquid optio! Totam omnis unde asperiores explicabo?
+          </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dignissimos voluptates? 
+            Excepturi nesciunt, sunt possimus vero nihil, pariatur, eos architecto iste sequi eum assumenda error doloribus nulla facilis tempora quam.
+          </p><!-- add desription -->
+
+          <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
+        </div>
+
+        <h3 onclick="showProjectDetail(this)" class="text-center mb-4" style="color: #0000EE; text-decoration: underline; cursor: pointer; text-decoration-color: #0000EE;">
+          2. Project 2
+        </h3> <!-- add project name -->
+        <div style="display: none;">
+          <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add project name -->
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum culpa ex obcaecati magni quod aliquid consequuntur 
+            dolore voluptas excepturi quidem fugiat blanditiis iusto suscipit, harum, voluptatibus veniam temporibus ipsam.
+          </p>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur cumque voluptatem doloribus harum, veniam eius. 
+            Accusantium est, nobis deleniti saepe totam vero deserunt? Praesentium facere rem provident voluptas beatae perferendis?
+          </p><!-- add desription -->
+          <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a><!--add link to the project -->
+        </div>
+      </div>
+    </div>
+  </section><br>
+
+  <footer class="bg-dark text-white text-center" id="section_contact">
+    <br>
+    <h1>My Contact</h1>
+    <i class="bi bi-linkedin" style="cursor: pointer;" onclick="goToLinkedin()"></i>
+    <i class="bi bi-instagram" style="cursor: pointer;" onclick="goToInstagram()"></i>
+    <i class="bi bi-whatsapp" style="cursor: pointer;" onclick="goToWhatsapp()"></i>
+    <i class="bi bi-envelope-at-fill" style="cursor: pointer;" onclick="goToEmail()"></i>
+    <br><br>
+  </footer>
+
+  <script src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
