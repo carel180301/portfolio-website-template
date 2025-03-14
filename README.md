@@ -166,7 +166,8 @@ function goToLinkedin() {
     window.open("https://www.linkedin.com/in/","_blank"); // link it to your account
 }
 ```
-add your url account to link it to your contact. Notice that email is the only one that use window.location.href. other than that, just use window.open <br>
+add your url account to link it to your contact. you can also make your own function if you want to add more social media accounts.
+**important note:** email is the only one that have to use window.location.href. other than that, just use window.open <br>
 
 ```javascript
 function showProjectDetail(element) {
