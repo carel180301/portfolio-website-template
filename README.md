@@ -49,7 +49,13 @@ change the 'lorem ipsum' to be description about yourself, and change the # to b
 change the '1.project 1' to your project name. <br>
 
 ```html
-<div style="display: none;">
+    <div style="display: none;">
           <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add image -->
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus minima quis distinctio odit praesentium tempora eum consequuntur 
+            veritatis odio illum quia, laboriosam, est aliquid optio! Totam omnis unde asperiores explicabo?
+          </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dignissimos voluptates? 
+            Excepturi nesciunt, sunt possimus vero nihil, pariatur, eos architecto iste sequi eum assumenda error doloribus nulla facilis tempora quam.
+          </p><!-- add desription -->
 ```
-add your project image inside src="images/[image file]"
+add your project image inside src="images/[image file]" and change the 'lorem ipsum..' to be your project description
