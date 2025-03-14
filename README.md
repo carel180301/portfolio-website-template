@@ -119,7 +119,7 @@ if you want to apply different styles based on the device's screen size, resolut
 ```
 or 
 ```css
-@media (max-width: 150px) and (max-width: 426px){
+@media (min-width: 150px) and (max-width: 426px){
 }
 ```
 if you want to add min-width and max-width <br> 
