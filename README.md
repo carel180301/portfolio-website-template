@@ -177,4 +177,8 @@ function showProjectDetail(element) {
 }
 ```
 if you want to style the project title color, you can change the "gray" and "blue" value (the "blue" is the color of your project title and "gray" is the color of the project title when being hovered)
+<br><hr>
 
+## Additional Information:
+
+if you want to add more icons, you can go to https://icons.getbootstrap.com/ 
