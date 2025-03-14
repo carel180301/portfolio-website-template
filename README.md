@@ -11,7 +11,6 @@
 **4.** Edit the Javascript <br>
 <hr>
 
-
 ## HTML 
 
 ```html
