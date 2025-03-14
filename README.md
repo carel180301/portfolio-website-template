@@ -37,6 +37,6 @@ add your logo inside the src="images/[image file]" <br>
 <h1>About Me</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus necessitatibus incidunt ad commodi velit assumenda totam dolorem quae omnis eaque! Harum, rem perspiciatis cupiditate quasi eveniet repudiandae esse maxime sequi!</p>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima soluta reiciendis voluptatem quasi voluptatum odio. Alias, consequatur amet maiores commodi tempore soluta earum, adipisci quia sunt voluptatibus laborum dolor ut?</p>
-        <a href="CV Carel .pdf" target="_blank" download><button class="btn btn-success w-50">My CV</button></a> <!-- add your cv file -->
+        <a href="#" target="_blank" download><button class="btn btn-success w-50">My CV</button></a> <!-- add your cv file -->
 ```
-change the 'lorem ipsum' to be description about yourself, and add your c
+change the 'lorem ipsum' to be description about yourself, and change the # to be your cv file 
