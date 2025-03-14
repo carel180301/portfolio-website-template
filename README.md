@@ -123,3 +123,32 @@ or
 }
 ```
 if you want to add min-width and max-width <br><hr> 
+
+## Javascript
+
+```javascript
+function goToInstagram() {
+    window.open("https://www.instagram.com/", "_blank"); // link it to your account
+}
+function goToWhatsapp(){
+    window.open("https://wa.me/", "_blank"); // link it to your account
+}
+function goToEmail() {
+    window.location.href = "mailto:dummy@gmail.com"; // link it to your account
+}
+function goToLinkedin() {
+    window.open("https://www.linkedin.com/in/","_blank"); // link it to your account
+}
+```
+add your url account to link it to your contact. Notice that email is the only one that use window.location.href. other than that, just use window.open <br>
+
+```javascript
+function showProjectDetail(element) {
+    let detail = element.nextElementSibling;
+    detail.style.display = (detail.style.display === "none" || detail.style.display === "") ? "block" : "none";
+
+    element.style.color = (element.style.color === "gray") ? "blue" : "gray"; /*if you want to style the color of project title*/
+}
+```
+if you want to style the project title color, you can change the "gray" and "blue" value (the "blue" is the color of your project title and "gray" is the color of the project title when being hovered)
+
