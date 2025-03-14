@@ -10,14 +10,24 @@
 **2.** click 'extract to...' <br>
 ![website template tutorial (4)](https://github.com/user-attachments/assets/07209c3f-d753-493f-b998-644ff0219527)<br>
 
-**3.** Add image(s) to the images folder <br>
+**3.** left click the folder that has already been extracted <br>
+![website template tutorial (5)](https://github.com/user-attachments/assets/510f4575-0127-43ed-80a1-60932640fb61)<br>
+
+**4.** right click on the folder <br>
+![website template tutorial (6)](https://github.com/user-attachments/assets/9f7991d1-3256-4270-a1ed-0a17fbadf48a)
+
+**5.** click "open with code" <br>
+![website template tutorial (8)](https://github.com/user-attachments/assets/156e14d3-4f12-4965-8114-e5c626832542)
+
+
+**6.** Add image(s) to the images folder <br>
 ![website template tutorial (1)](https://github.com/user-attachments/assets/57638ce0-63ea-492f-9bdc-fadb317c2b7a)<br>
 
-**4.** Edit the HTML <br>
+**7.** Edit the HTML <br>
 
-**5.** Edit the CSS <br>
+**8.** Edit the CSS <br>
 
-**6.** Edit the Javascript <br>
+**9.** Edit the Javascript <br>
 <hr>
 
 ## HTML 
