@@ -15,3 +15,13 @@ if you want to add background image to the hero section, you can add image file 
     <!--add your occupation-->
 ```
 add your occupation <br>
+
+```html
+  <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8 col-sm-10">
+          <p class="lead mb-4 text-white" style="text-align: justify; text-justify: inter-word;">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt nobis animi vero qui officia reprehenderit tenetur obcaecati optio tempore quae culpa nesciunt minima ducimus, sequi aliquid in ab voluptate sapiente!
+          </p><br> <!--add the description-->
+```
+change the "lorem ipsum..." to be description about yourself
