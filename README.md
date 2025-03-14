@@ -13,6 +13,11 @@ add images to the images folder <br>
 if you want to add background image to the hero section, you can add image file inside the background-image: url('images/[image file]'); <br>
 
 ```html
+<img class="d-block mx-auto mb-4 responsive-img" src="images/dummy image.jpg" alt="logo" style="max-height: 300px;"> <!--add logo image-->
+```
+add your logo inside src="images/[image file]"
+
+```html
     <h1 class="display-5 fw-bold text-body-emphasis text-white" style="color: white !important;">- [Occupation] -</h1><br>
     <!--add your occupation-->
 ```
