@@ -16,7 +16,7 @@
 **4.** right click on the folder <br>
 ![website template tutorial (6)](https://github.com/user-attachments/assets/9f7991d1-3256-4270-a1ed-0a17fbadf48a)
 
-**5.** click "open with code" <br>
+**5.** click "open with code" (or other code editor that you have) <br>
 ![website template tutorial (8)](https://github.com/user-attachments/assets/156e14d3-4f12-4965-8114-e5c626832542)
 
 
