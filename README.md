@@ -181,4 +181,8 @@ if you want to style the project title color, you can change the "gray" and "blu
 
 ## Additional Information:
 
-if you want to add more icons, you can go to https://icons.getbootstrap.com/ 
+if you want to add more icons for your contact, you can go to https://icons.getbootstrap.com/ and then copy the html icon tag like the example below:
+```html
+<i class="bi bi-facebook"></i>
+```
+
