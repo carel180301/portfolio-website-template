@@ -1,7 +1,8 @@
 # portfolio-website-template
 
 ![website template tutorial (1)](https://github.com/user-attachments/assets/863833b2-c1d8-4238-9186-0f1fcc058790) <br>
-add images to the images folder <br>
+add images to the images folder <br><br><hr>
+
 
 ## HTML 
 
@@ -70,4 +71,6 @@ add your project image inside src="images/[image file]" and change the 'lorem ip
 ```html
 <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
 ```
-change the # to be an url to your project
+change the # to be an url to your project <br><hr>
+
+## CSS 
