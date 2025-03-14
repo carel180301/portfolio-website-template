@@ -46,4 +46,10 @@ change the 'lorem ipsum' to be description about yourself, and change the # to b
             1. Project 1
         </h3> <!-- add project name -->
 ```
-change the '1.project 1' to your project name. 
+change the '1.project 1' to your project name. <br>
+
+```html
+<div style="display: none;">
+          <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add image -->
+```
+add your logo image inside src="images/[image file]"
