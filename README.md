@@ -112,4 +112,14 @@ if you want to style the logo image inside the navbar (navigation bar), you can 
     }
 }
 ```
-if you want to apply different styles based on the device's screen size, resolution, or other properties, you can use media query by using @media. for example =  @media (max-width: 426px) {} or @media (max-width: 150px) and (max-width: 426px){} if you want to add min-width and max-width <br> 
+if you want to apply different styles based on the device's screen size, resolution, or other properties, you can use media query by using @media. for example =  
+```css
+@media (max-width: 426px) {
+}
+```
+or 
+```css
+@media (max-width: 150px) and (max-width: 426px){
+}
+```
+if you want to add min-width and max-width <br> 
