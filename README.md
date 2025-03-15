@@ -79,7 +79,7 @@ change the 'lorem ipsum' to be description about yourself, and change the # to b
             1. Project 1
         </h3> <!-- add project name -->
 ```
-change the '1.project 1' to your project name. <br>
+change the '1.project 1' to your project name. <br><br>
 
 ```html
     <div style="display: none;">
