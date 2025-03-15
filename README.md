@@ -178,7 +178,7 @@ function goToLinkedin() {
 }
 ```
 add your url account to link it to your contact. you can also make your own function if you want to add more social media accounts.
-**important note:** email is the only one that have to use window.location.href. other than that, just use window.open <br>
+**important note:** email is the only one that have to use window.location.href. other than that, just use window.open <br><br>
 
 ```javascript
 function showProjectDetail(element) {
@@ -197,4 +197,4 @@ if you want to add more icons for your contact, you can go to https://icons.getb
 ```html
 <i class="bi bi-facebook"></i>
 ```
-if you want to add more complicated css style, you can go to https://www.w3schools.com/css/ to learn more about css
+<br>if you want to add more complicated css style, you can go to https://www.w3schools.com/css/ to learn more about css
