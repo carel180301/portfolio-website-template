@@ -118,21 +118,21 @@ if you want to add more social media accounts to your contact, just go to https:
     margin: 0.5%;
 }
 ```
-if you want style the account icons, you can style it here <br>
+if you want style the account icons, you can style it here <br><br>
 
 ```css
 .bi:hover{ /*if you want to style the icons if being hovered*/
     color: #0d6efd;
 }
 ```
-and also you can style the account icons when the icons being hovered <br>
+and also you can style the account icons when the icons being hovered <br><br>
 
 ```css
 .responsive-img { /*if you want to style the image on hero section*/
     width: 50%;
 }
 ```
-if you want to style the logo image on hero section, you can style it here <br>
+if you want to style the logo image on hero section, you can style it here <br><br>
 
 ```css
 .logo-img { /*if you want to style the logo*/
@@ -140,7 +140,7 @@ if you want to style the logo image on hero section, you can style it here <br>
     width: auto;
 }
 ```
-if you want to style the logo image inside the navbar (navigation bar), you can style it here <br>
+if you want to style the logo image inside the navbar (navigation bar), you can style it here <br><br>
 
 ```css
 @media (max-width: 426px) { /*add more media queries (only if you want)*/
