@@ -45,10 +45,9 @@ if you want to add background image to the hero section, you can add image file 
 add your logo inside src="images/[image file]" <br>
 
 ```html
-    <h1 class="display-5 fw-bold text-body-emphasis text-white" style="color: white !important;">- [Occupation] -</h1><br>
-    <!--add your occupation-->
+     <h1 class="display-5 fw-bold text-body-emphasis text-white" style="color: white !important;">- Web Developer -</h1><br> <!--add your occupation-->
 ```
-add your occupation <br>
+change the "- Web Developer - " to your occupation <br>
 
 ```html
   <div class="container">
