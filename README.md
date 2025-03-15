@@ -83,20 +83,23 @@ change the '1.project 1' to your project name. <br><br>
 
 ```html
     <div style="display: none;">
-          <img src="images/dummy image.jpg" alt="project image" class="w-100"> <!-- add image -->
+          <img src="images/dummy project .png" alt="project image" class="w-100"> <!-- add image -->
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus minima quis distinctio odit praesentium tempora eum consequuntur 
             veritatis odio illum quia, laboriosam, est aliquid optio! Totam omnis unde asperiores explicabo?
           </p>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dignissimos voluptates? 
             Excepturi nesciunt, sunt possimus vero nihil, pariatur, eos architecto iste sequi eum assumenda error doloribus nulla facilis tempora quam.
           </p><!-- add desription -->
+
+          <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
+        </div>
 ```
-add your project image inside src="images/[image file]" and change the 'lorem ipsum..' to be your project description <br>
+add your project image inside src="images/[image file]" and change the 'lorem ipsum..' to be your project description <br><br>
 
 ```html
 <a href="#" target="_blank"><button class="btn btn-primary w-50 mb-5">See the project</button></a> <!--add link to the project -->
 ```
-change the # to be an url to your project <br>
+change the # to be an url to your project <br><br>
 
 ```html
   <i class="bi bi-linkedin" style="cursor: pointer;" onclick="goToLinkedin()"></i>
