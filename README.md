@@ -33,14 +33,14 @@
 ## HTML 
 
 ```html
-  <div class="px-5 py-5 text-center bg-dark min-vh-100 d-flex flex-column justify-content-center" 
-    style="background-image: url('images/'); background-size: cover; background-position: center; background-repeat: no-repeat;"> 
+    <div class="px-5 py-5 text-center bg-dark min-vh-100 d-flex flex-column justify-content-center" 
+    style="background-image: url('images/dummy background.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;"> 
     <!--add background image (only if you want)-->
 ```
 if you want to add background image to the hero section, you can add image file inside the background-image: url('images/[image file]'); <br>
 
 ```html
-<img class="d-block mx-auto mb-4 responsive-img" src="images/dummy image.jpg" alt="logo" style="max-height: 300px;"> <!--add logo image-->
+<img class="d-block mx-auto mb-4 responsive-img" src="images/dummy logo.png" alt="logo" style="max-height: 300px;"> <!--add logo image-->
 ```
 add your logo inside src="images/[image file]" <br>
 
