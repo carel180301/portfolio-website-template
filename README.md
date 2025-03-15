@@ -37,17 +37,17 @@
     style="background-image: url('images/dummy background.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;"> 
     <!--add background image (only if you want)-->
 ```
-if you want to add background image to the hero section, you can add image file inside the background-image: url('images/[image file]'); <br>
+if you want to add background image to the hero section, you can add image file inside the background-image: url('images/[image file]'); <br><br>
 
 ```html
 <img class="d-block mx-auto mb-4 responsive-img" src="images/dummy logo.png" alt="logo" style="max-height: 300px;"> <!--add logo image-->
 ```
-add your logo inside src="images/[image file]" <br>
+add your logo inside src="images/[image file]" <br><br>
 
 ```html
      <h1 class="display-5 fw-bold text-body-emphasis text-white" style="color: white !important;">- Web Developer -</h1><br> <!--add your occupation-->
 ```
-change the "- Web Developer - " to your occupation <br>
+change the "- Web Developer - " to your occupation <br><br>
 
 ```html
   <div class="container">
@@ -57,14 +57,14 @@ change the "- Web Developer - " to your occupation <br>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt nobis animi vero qui officia reprehenderit tenetur obcaecati optio tempore quae culpa nesciunt minima ducimus, sequi aliquid in ab voluptate sapiente!
           </p><br> <!--add the description-->
 ```
-change the "lorem ipsum..." to be the description about yourself <br>
+change the "lorem ipsum..." to be the description about yourself <br><br>
 
 ```html
- <a class="navbar-brand d-flex align-items-center" href="#">
-        <img src="images/dummy image.jpg" alt="Logo" class="logo-img">
+    <a class="navbar-brand d-flex align-items-center" href="#">
+        <img src="images/dummy logo.png" alt="Logo" class="logo-img">
       </a> <!--add logo image-->
 ```
-add your logo inside the src="images/[image file]" <br>
+add your logo inside the src="images/[image file]" <br><br>
 
 ```html
 <h1>About Me</h1>
@@ -72,7 +72,7 @@ add your logo inside the src="images/[image file]" <br>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima soluta reiciendis voluptatem quasi voluptatum odio. Alias, consequatur amet maiores commodi tempore soluta earum, adipisci quia sunt voluptatibus laborum dolor ut?</p>
         <a href="#" target="_blank" download><button class="btn btn-success w-50">My CV</button></a> <!-- add your cv file -->
 ```
-change the 'lorem ipsum' to be description about yourself, and change the # to be your cv file <br>
+change the 'lorem ipsum' to be description about yourself, and change the # to be your cv file <br><br>
 
 ```html
 <h3 onclick="showProjectDetail(this)" class="text-center mb-4" style="color: #0000EE; text-decoration: underline; cursor: pointer; text-decoration-color: #0000EE;">
